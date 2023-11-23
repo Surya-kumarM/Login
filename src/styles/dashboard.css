@@ -1,0 +1,40 @@
+#dashboard{
+    height:max-content;
+    width: 100%;
+}
+#dashboard>nav{
+    height: 10vh;
+    width: 100%;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    font-size: 25px;
+    color: black;
+    background-color: aqua;
+    padding: 0px 80px 0px 350px;
+}
+#dashboard>nav>button{
+    height: 40px;
+    width: 120px;
+    background-color: blue;
+    color: white;
+    border: none;
+}
+#dashboard>section{
+    height: 90vh;
+    width: 100%;
+    /* background-color: yellow; */
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-around;
+}
+#dashboard>section>div{
+    height: 250px;
+    width: 250px;
+    border: 2px solid black;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-around;
+    align-items: center;
+}

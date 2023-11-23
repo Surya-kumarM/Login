@@ -1,0 +1,32 @@
+{
+  "users": [
+    {
+      "name": "Raghul",
+      "email": "raghul@gmail.com",
+      "phone": "8074533225",
+      "password": "Raghul143",
+      "id": 2
+    },
+    {
+      "name": "Shaik Rafiq",
+      "email": "shaikrafiq8074@gmail.com",
+      "phone": "8074533225",
+      "password": "8074533225",
+      "id": 3
+    },
+    {
+      "name": "Raghul Y R",
+      "email": "dabba@gmail.com",
+      "phone": "894093456",
+      "password": "Appu@12",
+      "id": 4
+    },
+    {
+      "name": "Surya",
+      "email": "suryaayrus318@gmail.com",
+      "phone": "8825524191",
+      "password": "Surya@1002",
+      "id": 5
+    }
+  ]
+}
